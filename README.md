@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend
 - 🌱 Currently persuing B.Tech in Computer Science and Engineering
 - 📫 Contact me for further talks
-- readme.md
+- vishalcreation00@gmail.com
 - 
 
 <!---
