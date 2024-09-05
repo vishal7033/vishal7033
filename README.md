@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishal7033
-- 👀 I’m interested in frontend
+- 👀 I’m backend developer 
 - 🌱 Currently persuing B.Tech in Computer Science and Engineering
 - 📫 Contact me for further talks
 - vishalcreation00@gmail.com
